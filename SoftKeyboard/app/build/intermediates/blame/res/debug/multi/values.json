@@ -1,0 +1,580 @@
+[
+    {
+        "outputFile": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\alphabet.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\colemak",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 2364
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\fitaly.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2369,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 3456
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\lewis.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3461,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 4585
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\metropolis.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4590,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 5769
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\myown.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5774,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 6972
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\myown2.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 6977,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 8180
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\opti.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 8185,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 9389
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\opti2.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 9394,
+                    "endLine": 394,
+                    "endColumn": 9,
+                    "endOffset": 13799
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases100.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 13804,
+                    "endLine": 896,
+                    "endColumn": 12,
+                    "endOffset": 36147
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases2.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 897,
+                    "startColumn": 4,
+                    "startOffset": 36152,
+                    "endLine": 899,
+                    "endColumn": 9,
+                    "endOffset": 36249
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\quickbrownfox.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 900,
+                    "startColumn": 4,
+                    "startOffset": 36254,
+                    "endLine": 931,
+                    "endColumn": 12,
+                    "endOffset": 37430
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\qwerty.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 932,
+                    "startColumn": 4,
+                    "startOffset": 37435,
+                    "endColumn": 49,
+                    "endOffset": 37480
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 933,
+                    "startColumn": 4,
+                    "startOffset": 37485,
+                    "endColumn": 48,
+                    "endOffset": 37529
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 934,
+                    "startColumn": 4,
+                    "startOffset": 37534,
+                    "endColumn": 56,
+                    "endOffset": 37586
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 935,
+                    "startColumn": 4,
+                    "startOffset": 37591,
+                    "endColumn": 37,
+                    "endOffset": 37624
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 936,
+                    "startColumn": 4,
+                    "startOffset": 37629,
+                    "endColumn": 48,
+                    "endOffset": 37673
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 937,
+                    "startColumn": 4,
+                    "startOffset": 37678,
+                    "endColumn": 53,
+                    "endOffset": 37727
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 938,
+                    "startColumn": 4,
+                    "startOffset": 37732,
+                    "endColumn": 35,
+                    "endOffset": 37763
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 939,
+                    "startColumn": 4,
+                    "startOffset": 37768,
+                    "endColumn": 37,
+                    "endOffset": 37801
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 940,
+                    "startColumn": 4,
+                    "startOffset": 37806,
+                    "endColumn": 57,
+                    "endOffset": 37859
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 941,
+                    "startColumn": 4,
+                    "startOffset": 37864,
+                    "endColumn": 61,
+                    "endOffset": 37921
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 942,
+                    "startColumn": 4,
+                    "startOffset": 37926,
+                    "endColumn": 33,
+                    "endOffset": 37955
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 943,
+                    "startColumn": 4,
+                    "startOffset": 37960,
+                    "endColumn": 60,
+                    "endOffset": 38016
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 944,
+                    "startColumn": 4,
+                    "startOffset": 38021,
+                    "endColumn": 52,
+                    "endOffset": 38069
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 945,
+                    "startColumn": 4,
+                    "startOffset": 38074,
+                    "endColumn": 37,
+                    "endOffset": 38107
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 946,
+                    "startColumn": 4,
+                    "startOffset": 38112,
+                    "endColumn": 52,
+                    "endOffset": 38160
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 947,
+                    "startColumn": 4,
+                    "startOffset": 38165,
+                    "endColumn": 53,
+                    "endOffset": 38214
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 948,
+                    "startColumn": 4,
+                    "startOffset": 38219,
+                    "endColumn": 61,
+                    "endOffset": 38276
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 949,
+                    "startColumn": 4,
+                    "startOffset": 38281,
+                    "endColumn": 53,
+                    "endOffset": 38330
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 950,
+                    "startColumn": 4,
+                    "startOffset": 38335,
+                    "endColumn": 63,
+                    "endOffset": 38394
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 951,
+                    "startColumn": 4,
+                    "startOffset": 38399,
+                    "endColumn": 61,
+                    "endOffset": 38456
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 952,
+                    "startColumn": 4,
+                    "startOffset": 38461,
+                    "endColumn": 56,
+                    "endOffset": 38513
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 953,
+                    "startColumn": 4,
+                    "startOffset": 38518,
+                    "endColumn": 61,
+                    "endOffset": 38575
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 954,
+                    "startColumn": 4,
+                    "startOffset": 38580,
+                    "endColumn": 57,
+                    "endOffset": 38633
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 955,
+                    "startColumn": 4,
+                    "startOffset": 38638,
+                    "endColumn": 66,
+                    "endOffset": 38700
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 956,
+                    "startColumn": 4,
+                    "startOffset": 38705,
+                    "endColumn": 68,
+                    "endOffset": 38769
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 957,
+                    "startColumn": 4,
+                    "startOffset": 38774,
+                    "endColumn": 64,
+                    "endOffset": 38834
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 958,
+                    "startColumn": 4,
+                    "startOffset": 38839,
+                    "endColumn": 57,
+                    "endOffset": 38892
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 959,
+                    "startColumn": 4,
+                    "startOffset": 38897,
+                    "endColumn": 57,
+                    "endOffset": 38950
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 960,
+                    "startColumn": 4,
+                    "startOffset": 38955,
+                    "endColumn": 60,
+                    "endOffset": 39011
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 961,
+                    "startColumn": 4,
+                    "startOffset": 39016,
+                    "endColumn": 94,
+                    "endOffset": 39106
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 962,
+                    "startColumn": 4,
+                    "startOffset": 39111,
+                    "endColumn": 68,
+                    "endOffset": 39175
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 963,
+                    "startColumn": 4,
+                    "startOffset": 39180,
+                    "endColumn": 45,
+                    "endOffset": 39221
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 964,
+                    "startColumn": 4,
+                    "startOffset": 39226,
+                    "endColumn": 91,
+                    "endOffset": 39313
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

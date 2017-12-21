@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="myown">
+        <item>36, 40</item>
+        <item>Q, -7, 0, 1, 1</item>
+        <item>W, -6, 0, 1, 1</item>
+        <item>E, -5, 0, 1, 1</item>
+        <item>R, -4, 0, 1, 1</item>
+        <item>T, -3, 0, 1, 1</item>
+
+        <item>Y, 6, 0, 1, 1</item>
+        <item>U, 7, 0, 1, 1</item>
+        <item>I, 8, 0, 1, 1</item>
+        <item>O, 9, 0, 1, 1</item>
+        <item>P, 10, 0, 1, 1</item>
+
+        <item>A, -6.5, 1, 1, 1</item>
+        <item>S, -5.5, 1, 1, 1</item>
+        <item>D, -4.5, 1, 1, 1</item>
+        <item>F, -3.5, 1, 1, 1</item>
+        <item>G, -2.5, 1, 1, 1</item>
+
+        <item>H, 5.5, 1, 1, 1</item>
+        <item>J, 6.5, 1, 1, 1</item>
+        <item>K, 7.5, 1, 1, 1</item>
+        <item>L, 8.5, 1, 1, 1</item>
+        <item>Bksp, 9.5, 1, 2.333, 1</item>
+
+        <item>Z, -7, 2, 1, 1</item>
+        <item>X, -6, 2, 1, 1</item>
+        <item>C, -5, 2, 1, 1</item>
+        <item>V, -4, 2, 1, 1</item>
+
+        <item>B, 6, 2, 1, 1</item>
+        <item>N, 7, 2, 1, 1</item>
+        <item>M, 8, 2, 1, 1</item>
+        <item>Enter, 9, 2, 2, 1</item>
+
+
+        <item>Space, -6.5, 3, 6, 1</item>
+        <item>Space, 5.5, 3, 6, 1</item>
+
+
+    </array>
+
+</resources>

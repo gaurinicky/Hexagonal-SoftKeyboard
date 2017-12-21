@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\type.wav",
+        "source": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\raw\\type.wav"
+    },
+    {
+        "merged": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\undo.wav",
+        "source": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\raw\\undo.wav"
+    },
+    {
+        "merged": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.wav",
+        "source": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\src\\main\\res\\raw\\miss.wav"
+    }
+]

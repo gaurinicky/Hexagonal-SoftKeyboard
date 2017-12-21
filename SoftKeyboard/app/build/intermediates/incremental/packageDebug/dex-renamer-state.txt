@@ -1,0 +1,7 @@
+#Wed Dec 13 00:50:19 EST 2017
+base.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86446551ad7cf61939ea96cb0d3ce21481ac7d7c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_688a3e3515dd7027e369ea2f907b2e98f1d50bbf\\classes.dex
+base.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_688a3e3515dd7027e369ea2f907b2e98f1d50bbf
+file.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Project\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86446551ad7cf61939ea96cb0d3ce21481ac7d7c\\classes.dex
